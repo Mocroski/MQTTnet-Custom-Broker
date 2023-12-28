@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "iF6l46UqthQBtzoPkkdaOn/GdxSoaEgEIQKUMq0MYpO4I1XYpS4XyCZfcSvqTtqj2cAzU6Js1K6ZLfREDL8fUg==",
+  "success": true,
+  "projectFilePath": "D:\\Projetos\\gay\\Brokerzin\\Brokerzin\\Brokerzin.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\devmo\\.nuget\\packages\\mqttnet\\4.3.3.952\\mqttnet.4.3.3.952.nupkg.sha512",
+    "C:\\Users\\devmo\\.nuget\\packages\\mqttnet.aspnetcore\\4.3.3.952\\mqttnet.aspnetcore.4.3.3.952.nupkg.sha512"
+  ],
+  "logs": []
+}
